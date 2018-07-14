@@ -1,5 +1,9 @@
 # modern-machine-learning-tutorial
 
+## Content
+
+* [Glossary of Machine Learning](https://github.com/leviding/modern-machine-learning-tutorial/wiki/Glossary-of-Machine-Learning)
+
 ### Ensemble learning
 
 In [statistics](https://en.wikipedia.org/wiki/Statistics "Statistics") and [machine learning](https://en.wikipedia.org/wiki/Machine_learning "Machine learning"), **ensemble methods** use multiple learning algorithms to obtain better [predictive performance](https://en.wikipedia.org/wiki/Predictive_inference "Predictive inference") than could be obtained from any of the constituent learning algorithms alone.<sup>[[1]](#cite_note-1)</sup><sup>[[2]](#cite_note-2)</sup><sup>[[3]](#cite_note-Rokach2010-3)</sup> Unlike a [statistical ensemble](https://en.wikipedia.org/wiki/Statistical_ensemble "Statistical ensemble") in statistical mechanics, which is usually infinite, a machine learning ensemble consists of only a concrete finite set of alternative models, but typically allows for much more flexible structure to exist among those alternatives.
